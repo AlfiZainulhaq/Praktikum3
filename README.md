@@ -25,4 +25,9 @@ else: Jika dua kondisi sebelumnya salah, maka otomatis bil3 yang paling besar.</
 Menampilkan hasil akhir ke layar dengan teks "Bilangan terbesar adalah:" diikuti nilainya.
 
 ## 3. flowchart menentukan bilangan terbesar dari tiga input
+
 ![img2](SS/flowchart.png)
+
+## 4. setelah file selesai, kita ke git bash dan masuk ke repository. lakukan git add . untuk menambahkan perubahan, git commit -m untuk menyimpan perubahan pada repository , dan git push -u origin untuk memperbarui repositori git online agar perubahan yang di lokal ada di repositori online
+
+![img3](SS/commit.png)
